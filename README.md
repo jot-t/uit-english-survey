@@ -1,4 +1,3 @@
-# uit-english-survey
 # UIT Student Foreign Language Certificate Survey
 
 ## 🚀 Project Overview
